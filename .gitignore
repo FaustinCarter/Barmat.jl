@@ -1,0 +1,6 @@
+# Mac OS X
+*.DS_Store
+
+# Temp files
+*~
+.ipynb_checkpoints
